@@ -38,7 +38,7 @@ header{
     display: flex;
     list-style-type: none;
     margin: auto;
-    font-family: 'minecraft','VCR OSD Mono';
+    font-family: 'minecraft','VCR OSD Mono', Courier, monospace;
     border: solid 0.2px black;
  
     
@@ -67,7 +67,7 @@ header{
 
 p{
 text-align: center;
-font-family: 'minecraft','VCR OSD Mono';
+font-family: 'minecraft','VCR OSD Mono', Courier, monospace;
 padding: 0px;
 margin: 0;
 
@@ -90,7 +90,7 @@ body{
     border-radius: 10%; 
     }
 .box h1{
-    font-family: 'minecraft','VCR OSD Mono';
+    font-family: 'minecraft','VCR OSD Mono', Courier, monospace;
     text-align: center;
     font-size: 3em;
     font-weight: bold;
