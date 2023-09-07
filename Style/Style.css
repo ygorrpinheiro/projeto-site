@@ -1,5 +1,13 @@
 @charset "UTF-8";
-
+@font-face {
+    font-family: "VCR OSD Mono";
+    src: url("https://db.onlinewebfonts.com/t/2545d122b16126676225a5b52283ae23.eot");
+    src: url("https://db.onlinewebfonts.com/t/2545d122b16126676225a5b52283ae23.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/2545d122b16126676225a5b52283ae23.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/2545d122b16126676225a5b52283ae23.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/2545d122b16126676225a5b52283ae23.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/2545d122b16126676225a5b52283ae23.svg#VCR OSD Mono")format("svg");
+}
 @font-face {
     font-family:'minecraft' ;
     src: url(/Font/VCRosdNEUE.ttf);
@@ -30,7 +38,7 @@ header{
     display: flex;
     list-style-type: none;
     margin: auto;
-    font-family: 'minecraft', Courier, monospace;
+    font-family: 'minecraft','VCR OSD Mono', Courier, monospace;
     border: solid 0.2px black;
  
     
@@ -59,7 +67,7 @@ header{
 
 p{
 text-align: center;
-font-family: 'minecraft', Courier, monospace;
+font-family: 'minecraft','VCR OSD Mono', Courier, monospace;
 padding: 0px;
 margin: 0;
 
@@ -82,7 +90,7 @@ body{
     border-radius: 10%; 
     }
 .box h1{
-    font-family: 'minecraft', Courier, monospace;
+    font-family: 'minecraft','VCR OSD Mono', Courier, monospace;
     text-align: center;
     font-size: 3em;
     font-weight: bold;
