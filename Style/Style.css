@@ -1,5 +1,4 @@
 @charset "UTF-8";
-@import url(https://db.onlinewebfonts.com/c/640bccf731fd712f99b3b3ef2b89d628?family=Pixels);
 @font-face {
     font-family:'minecraft' ;
     src: url(/Font/VCRosdNEUE.ttf);
@@ -30,7 +29,7 @@ header{
     display: flex;
     list-style-type: none;
     margin: auto;
-    font-family: 'minecraft','Pixels', Courier, monospace;
+    font-family: 'minecraft', Courier, monospace;
     border: solid 0.2px black;
  
     
@@ -59,7 +58,7 @@ header{
 
 p{
 text-align: center;
-font-family: 'minecraft','Pixels', Courier, monospace;
+font-family: 'minecraft', Courier, monospace;
 padding: 0px;
 margin: 0;
 
@@ -82,7 +81,7 @@ body{
     border-radius: 10%; 
     }
 .box h1{
-    font-family: 'minecraft','Pixels', Courier, monospace;
+    font-family: 'minecraft', Courier, monospace;
     text-align: center;
     font-size: 3em;
     font-weight: bold;
