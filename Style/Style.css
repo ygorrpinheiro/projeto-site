@@ -1,7 +1,8 @@
 @charset "UTF-8";
 @font-face {
     font-family:'minecraft' ;
-    src: url(Font/VCRosdNEUE.ttf);
+    src: url(Font/VCRosdNEUE.ttf) format('truetype');
+    
 }/*por favor pegaa*/
 
 
