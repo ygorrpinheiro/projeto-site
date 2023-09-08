@@ -3,6 +3,7 @@
     font-family:'minecraft' ;
     src: url(/Font/VCRosdNEUE.ttf);
 }/*por favor pegaa*/
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Poppins:ital,wght@0,100;0,300;0,500;1,100&family=Raleway:ital,wght@0,100;0,200;0,500;1,100;1,200&family=Roboto:ital,wght@0,100;0,300;0,400;1,100;1,300&display=swap');
 
 
 *{
@@ -29,7 +30,7 @@ header{
     display: flex;
     list-style-type: none;
     margin: auto;
-    font-family: 'minecraft', Courier, monospace;
+    font-family: 'minecraft','Poppins', Courier, monospace;
     border: solid 0.2px black;
  
     
@@ -58,7 +59,7 @@ header{
 
 p{
 text-align: center;
-font-family: 'minecraft', Courier, monospace;
+font-family: 'minecraft','Poppins', Courier, monospace;
 padding: 0px;
 margin: 0;
 
@@ -81,7 +82,7 @@ body{
     border-radius: 10%; 
     }
 .box h1{
-    font-family: 'minecraft', Courier, monospace;
+    font-family: 'minecraft','Poppins', Courier, monospace;
     text-align: center;
     font-size: 3em;
     font-weight: bold;
