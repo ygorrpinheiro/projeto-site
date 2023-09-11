@@ -81,8 +81,8 @@ body{
     height: auto; /* Deixe a altura se ajustar automaticamente com base no conteúdo */
     max-height: 500px; /* Defina a altura máxima em relação à altura da janela (viewport) */
     max-width: 500px; /* Você ainda pode definir uma largura máxima se desejar */
-    min-width: 300px; /* Largura mínima desejada */
-    min-height: 670px; /* Altura mínima desejada */
+    min-width: 400px; /* Largura mínima desejada */
+    min-height: 690px; /* Altura mínima desejada */
     background: var(--cor0);
     box-shadow: 1px 2px 2px 3px rgba(0, 0, 0, 0.373);
     border-radius: 10%; 
