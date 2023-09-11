@@ -1,7 +1,8 @@
 @charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap');
 @font-face {
     font-family:'minecraft' ;
-    src: url(/Font/VCRosdNEUE.ttf) format('truetype');
+    src: url(../Font/VCRosdNEUE.ttf) format('truetype');
     
 }/*por favor pegaa*/
 
@@ -19,6 +20,7 @@
     --cor3:#5082e6;
     --cor4:#1D5B79;
     --font1:'minecraft', Courier, monospace;
+    --font2:'Oswald', sans-serif;
 }
 
 header{
