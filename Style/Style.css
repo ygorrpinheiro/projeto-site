@@ -110,7 +110,7 @@ body{
  
 }
 
-.imgsocial img:hover{
+#foto1 img:hover{
     border: solid var(--cor1) 4px;
     transition: 0.8s;
     transition-duration: 0.8s;
